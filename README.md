@@ -2,5 +2,4 @@
 
 ## Below is the Visualization Report made from the data
 
-![embed]![Uploading image.png…](https://github.com/viswanathsr-04/amazon-prime-video-analysis/blob/main/Report.png)
- [/embed]
+![Uploading image.png…](https://github.com/viswanathsr-04/amazon-prime-video-analysis/blob/main/Report.png)
